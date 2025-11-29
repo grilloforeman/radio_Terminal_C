@@ -37,7 +37,7 @@ codigo e que vc pode mudar o servidor de audio de pulseaudio para alsa.
 bash
 # Compilação
 
-# Depois de instalar os pacot
+# Depois de instalar os pacotes
 #Arquivos do projeto
 
 Código: radio_AA.c
@@ -105,3 +105,10 @@ São controles do programa que voce vai usar quando estiver usando
     Diminuir volume: - ou _
 
     Sair: Q
+
+
+## O servidor com a lista
+
+Basta colocar no servidor o arquivo radios.php, e depois voce vai indicar isso
+no seu programa config.txt. Isso caso  voce tenha umn servidor para por essa
+lista em json.
