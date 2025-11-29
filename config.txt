@@ -1,0 +1,3 @@
+##configuracao
+servidor_url: http://localhost.testeurl/radios.php
+
