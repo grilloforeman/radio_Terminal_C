@@ -28,7 +28,7 @@ $radios = [
         "nome_radio" => "HBR1 TRONIC",
         "estipo" => "TECH Music",
         "regiao" => "GW, Munique",
-        "url" => "http://ubuntu.hbr1.com:19800/trONIC.ogg"
+        "url" => "http://ubuntu.hbr1.com:19800/tronic.ogg"
     ],
     [
         "descricao" => "RADIO PUNK FM BRASIL",
