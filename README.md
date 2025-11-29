@@ -1,5 +1,5 @@
 ## Arquivos necessarios para compilação
- ´´´  
+ ```
 sudo apt update
 sudo apt install -y \
     build-essential \
@@ -11,7 +11,7 @@ sudo apt install -y \
     libswresample-dev \
     libcurl4-openssl-dev \
     libcjson-dev
-```
+ ```
 ## O que é instalado, aqui uma explicação
 
  build-essential → fornece gcc, make e ferramentas básicas de compilação
