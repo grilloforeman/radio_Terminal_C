@@ -33,7 +33,7 @@ Aqui voce tem um makefile que automatiza o processo de compilacção passando co
 codigo e que vc pode mudar o servidor de audio de pulseaudio para alsa.
 
 
-## Depois de instalar os pacotes, compile com:
+## Depois de instalar os pacotes. Compile com:
 bash
 # Compilação
 
